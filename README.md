@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TmNriT
+- 👋 Hi, I’m @Kaji-Kai
 - 👀 I’m interested in C#, HTML, CSS, JS, Ruby, C++
 - 🌱 I’m currently learning Ruby, Ruby on Rails, JSON formatting on Sharepoint
 <!--
